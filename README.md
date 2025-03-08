@@ -1,4 +1,4 @@
-# is-whitespace [![NPM version](https://badge.fury.io/js/is-whitespace.svg)](http://badge.fury.io/js/is-whitespace)  [![Build Status](https://travis-ci.org/jonschlinkert/is-whitespace.svg)](https://travis-ci.org/jonschlinkert/is-whitespace)
+# is-whitespace [![NPM version](https://badge.fury.io/js/is-whitespace.svg)](http://badge.fury.io/js/is-whitespace)
 
 > Returns true if the value passed is all whitespace.
 
